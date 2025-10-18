@@ -7,12 +7,12 @@ cd TinyPal
 ```
 ## **Install dependecies**
 ```npm install```
-# or
+or
 ```yarn install```
 
 ## **How to run**
 ```npm start```
-# or
+or
 ```npx expo start```
-# or
+or
 ```yarn start```
